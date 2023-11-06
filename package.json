@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "esbuild": "^0.19.5",
-    "typescript": "*"
+    "typescript": "^5.2.2"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.4.0",
