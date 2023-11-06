@@ -16,5 +16,7 @@
     "esbuild": "^0.19.5",
     "typescript": "^5.2.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "esbuild-register": "^3.5.0"
+  }
 }
