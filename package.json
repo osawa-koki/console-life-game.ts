@@ -2,7 +2,7 @@
   "name": "console-life-game.ts",
   "version": "1.0.0",
   "description": "🥨🥨🥨 TypeScriptで実装したコンソール上で動作するライフゲームです！",
-  "main": "index.js",
+  "main": "./src/index.js",
   "repository": "https://github.com/osawa-koki/console-life-game.ts.git",
   "author": "osawa-koki <koki@osawa.dev>",
   "license": "Apache-2.0",
