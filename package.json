@@ -20,6 +20,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
+    "@types/node": "^20.8.10",
     "esbuild": "^0.19.5",
     "typescript": "^5.2.2"
   },
